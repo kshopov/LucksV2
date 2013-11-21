@@ -49,10 +49,6 @@ public class XmlParser {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		
-		for(Luck s : lucks) {
-			Log.d("LUCK", "id: " + s.getId() + "text: " + s.getLuckText());
-		}
 
 		return lucks;
 	}
