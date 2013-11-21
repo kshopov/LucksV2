@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, LucksActivity!</string>
+    <string name="app_name">LucksV2</string>
+    <string name="languageButton">Select Language</string>
+	<string name="addButton">Add Luck</string>
+	<string name="editButton">Edit Luck</string>
+	<string name="cancelButton">Cancel</string>
+	<string name="okButton">OK</string>
+	<string name="addLuckHint">Enter new luck</string>
+	<string name="addAuthorHint">Enter author</string>
+	<string name="languagePrompt">Select Language:</string>
+	<string name="upd_button">Update</string>
+	<string name="network_unavailable">You need internet connection to perform this operation</string>
+	<string name="no_list_data">No data</string>
+ 
+</resources>
